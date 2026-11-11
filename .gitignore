@@ -4,3 +4,6 @@
 !.gitignore
 !band/
 !band/**
+!.github/
+!.github/workflows/
+!.github/workflows/pages.yml
