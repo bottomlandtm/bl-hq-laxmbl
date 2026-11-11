@@ -2,3 +2,5 @@
 !index.html
 !.nojekyll
 !.gitignore
+!band/
+!band/**
